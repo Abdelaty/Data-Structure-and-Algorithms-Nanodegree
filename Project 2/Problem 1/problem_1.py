@@ -65,7 +65,6 @@ class LRU_Cache(object):
 # Tests
 
 our_cache = LRU_Cache(5)
-
 our_cache.set(1, 1);
 our_cache.set(2, 2);
 our_cache.set(3, 3);
