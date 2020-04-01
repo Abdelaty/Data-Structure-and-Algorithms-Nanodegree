@@ -1,0 +1,19 @@
+
+�cnetworkx.classes.graph
+Graph
+q )�q}q(X   node_dict_factoryqcbuiltins
+dict
+qX   adjlist_dict_factoryqhX   edge_attr_dict_factoryqhX   graphq}qX   nameq	X   Random Geometric Graphq
+sX   nodeq}q(K }qX   posq]q(G?��촤CG?ߩ�p
+esK}qh]q(G?�̩{IbYG?�$a��pesK}qh]q(G?�߁� P�G?�ՐM)esK}qh]q(G?Тl%��G?�8�esK}qh]q(G?�C�6YG?��K깶aesK}qh]q(G?�DZ�<�G?���!ҜesK}qh]q(G?��V���G?�6ERqJ esK}qh]q(G?����>G?��|fu�esK}qh]q(G?���<���G?ۥI�Z��esK	}q h]q!(G?�]�l�GG?����~mesK
+}q"h]q#(G?�B�g��G?���tesK}q$h]q%(G?�3Kq^lG?�l`�;0esK}q&h]q'(G?�����G?�%�a�esK}q(h]q)(G?�(�S��G?Ǌ!#)0esK}q*h]q+(G?�s�q�0G?��c!ބ�esK}q,h]q-(G?�T�	�G?�6�-	�TesK}q.h]q/(G?��˰��G?��b5KesK}q0h]q1(G?�rD��m+G?�0K���2esK}q2h]q3(G?����l�G?�汭"PesK}q4h]q5(G?�Zc0�
+�G?�/d<t�esK}q6h]q7(G?� ���G?�jHYƠesK}q8h]q9(G?�hr��GG?�,1��FesK}q:h]q;(G?�Xy���G?���n�esK}q<h]q=(G?��Z���G?�B#@���esK}q>h]q?(G?���"La�G?��_՗�,esK}q@h]qA(G?�����FG?˻���h�esK}qBh]qC(G?��U����G?ʫok\tesK}qDh]qE(G?��ʤ`��G?�+#�desK}qFh]qG(G?�5�3,G?�19-FesK}qHh]qI(G?�	�nG?�)6	v��esK}qJh]qK(G?��g�G?�ݐ�0gXesK}qLh]qM(G?䂯9�|G?԰yp�k~esK }qNh]qO(G?�R�u��G?�}��&esK!}qPh]qQ(G?���%`G?ٓ��-�esK"}qRh]qS(G?�Q��/G?�T��Y&esK#}qTh]qU(G?Ӭ8�QبG?���p1�XesK$}qVh]qW(G?�5�g�G?���desK%}qXh]qY(G?�h�RG�G?�����$esK&}qZh]q[(G?�b��|G?���L�esK'}q\h]q](G?�5�/��yG?�e��A�	esuX   adjq^}q_(K }q`(K$}qaK"}qbK}qcK}qdK}qeuK}qf(K#}qgK}qhK}qiK}qjK}qkK}qlK}qmK}qnK}qoK}qpuK}qq(K'}qrK$}qsK}qtK}quK	}qvK}qwK}qxuK}qy(K#}qzK}q{K}q|K}q}K}q~uK}q(K'}q�K$}q�K}q�K}q�K	}q�K}q�KhxuK}q�(K }q�K}q�K}q�uK}q�(K#}q�K}q�K}q�K}q�KhpKh~uK}q�(K'}q�K$}q�K}q�K}q�K}q�K	}q�KhwKh�uK}q�(K!}q�K}q�K}q�uK	}q�(K$}q�K}q�K}q�KhvKh�Kh�uK
+}q�(K}q�K}q�K}q�K}q�K}q�K}q�K}q�K}q�uK}q�(K#}q�K}q�K}q�Kh}Kh�uK}q�(K%}q�K"}q�K}q�K}q�K}q�K}q�uK}q�(K}q�K}q�K}q�K
+h�uK}q�(K!}q�K}q�K}q�Kh�Kh�uK}q�(K#}q�K}q�K}q�K}q�K}q�K}q�KhoKh|Kh�Kh�uK}q�(K%}q�K}q�Kh�Kh�uK}q�(K"}q�K}q�K}q�K}q�K}q�K}q�K heKhnK
+h�Kh�Kh�uK}q�(K}q�K}q�K}q�K}q�K}q�KhmK
+h�Kh�Kh�uK}q�(K}q�KhuKh�Kh�K	h�uK}q�(K#}q�K}q�KhlKh{Kh�Kh�Kh�uK}q�(KhtKh�Kh�K	h�Kh�uK}q�(K'}q�K%}q�K}q�Kh�Kh�uK}q�(K&}q�K }q�K}q�uK}q�(K}q�K
+h�Kh�Kh�uK}q�(K"}q�K}q�K}q�K}q�KhkK
+h�Kh�Kh�Kh�uK}q�(K"}q�K}q�K}q�KhjK
+h�Kh�Kh�Kh�Kh�Kh�uK}q�(K}q�KhiK
+h�Kh�Kh�Kh�Kh�Kh�uK}q�(K'}q�K$}q�K"}q�K}q�K hdKh�Kh�uK}q�(K&}q�K%}q�K }q�Kh�Kh�uK}q�(K!}q�Kh�Kh�Kh�uK}q�(K"}q�K hcKhhK
+h�Kh�Kh�Kh�Kh�Kh�Kh�Kh�Kh�uK }q�(K&}q�Kh�Kh�Kh�uK!}q�(Kh�Kh�Kh�uK"}q�(K hbKh�Kh�Kh�Kh�Kh�Kh�uK#}q�(KhgKhzKh�Kh�Kh�Kh�uK$}q�(K'}q�K haKhsKh�Kh�K	h�Kh�uK%}r   (Kh�Kh�Kh�Kh�uK&}r  (Kh�Kh�K h�uK'}r  (KhrKh�Kh�Kh�Kh�K$h�uuX   edger  h_ub.
